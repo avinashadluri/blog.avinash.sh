@@ -131,6 +131,45 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Australia",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "australia/basics",
+              "australia/culture-and-customs",
+              "australia/cost-of-living",
+              "australia/healthcare-system"
+            ]
+          },
+          {
+            "group": "Living & Working",
+            "pages": [
+              "australia/visa-immigration",
+              "australia/finding-accommodation",
+              "australia/job-market",
+              "australia/banking-finances"
+            ]
+          },
+          {
+            "group": "Government Services",
+            "pages": [
+              "australia/medicare-and-centrelink",
+              "australia/parental-pay-family-benefits"
+            ]
+          },
+          {
+            "group": "Essential Info",
+            "pages": [
+              "australia/transport-getting-around",
+              "australia/education-system",
+              "australia/emergency-services",
+              "australia/useful-apps-services"
+            ]
+          }
+        ]
       }
     ]
   },
