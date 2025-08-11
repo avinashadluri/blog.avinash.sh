@@ -179,7 +179,10 @@
         "groups": [
           {
             "group": "Summaries",
-            "pages": ["books/reframe-brain"]
+            "pages": [
+              "books/reframe-brain",
+              "books/deep-work"
+            ]
           }
         ]
       }
