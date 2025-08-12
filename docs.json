@@ -16,12 +16,20 @@
       {
         "tab": "Home",
         "groups": [
-          {
-            "group": "Welcome",
-            "pages": ["introduction", "about"]
-          }
-        ]
+      {
+        "group": "Overview",
+        "pages": ["introduction"]
       },
+      {
+        "group": "About Me",
+        "pages": ["about"]
+      },
+      {
+        "group": "Connect",
+        "pages": ["contact"]
+      }
+    ]
+  },
       {
         "tab": "Dev",
         "groups": [
