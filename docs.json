@@ -16,20 +16,26 @@
       {
         "tab": "Home",
         "groups": [
-      {
-        "group": "Overview",
-        "pages": ["introduction"]
+          {
+            "group": "Overview",
+            "pages": [
+              "introduction"
+            ]
+          },
+          {
+            "group": "About Me",
+            "pages": [
+              "about"
+            ]
+          },
+          {
+            "group": "Connect",
+            "pages": [
+              "contact"
+            ]
+          }
+        ]
       },
-      {
-        "group": "About Me",
-        "pages": ["about"]
-      },
-      {
-        "group": "Connect",
-        "pages": ["contact"]
-      }
-    ]
-  },
       {
         "tab": "Dev",
         "groups": [
@@ -93,6 +99,12 @@
               "ai/ai-in-business",
               "ai/ai-ethics",
               "ai/ai-tools"
+            ]
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "ai/guides/claude-code"
             ]
           }
         ]
