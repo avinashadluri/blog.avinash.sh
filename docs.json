@@ -191,6 +191,23 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "నిశ్శబ్దం",
+        "groups": [
+          {
+            "group": "Intro",
+            "pages": [
+              "nishabdham/intro"
+            ]
+          },
+          {
+            "group": "Kathalu",
+            "pages": [
+              "nishabdham/kathalu"
+            ]
+          }
+        ]
       }
     ]
   },
